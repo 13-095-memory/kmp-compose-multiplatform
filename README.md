@@ -1,3 +1,12 @@
+##MyApllication
+
+*Nama : Memory Simanjuntak
+*NIM  : 123140095
+
+##Screenshot
+
+
+
 This is a Kotlin Multiplatform project targeting Android, Desktop (JVM).
 
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
