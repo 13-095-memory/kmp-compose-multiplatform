@@ -1,9 +1,10 @@
-##MyApllication
+### MyApllication
 
-*Nama : Memory Simanjuntak
-*NIM  : 123140095
+### Nama : Memory Simanjuntak
+### NIM  : 123140095
 
-##Screenshot
+### Screenshot
+
 
 
 
