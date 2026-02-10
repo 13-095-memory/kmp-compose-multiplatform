@@ -4,7 +4,7 @@
 ### NIM  : 123140095
 
 ### Screenshot
-
+![Android Screenshot](PAM2.png)
 
 
 
